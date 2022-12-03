@@ -7,4 +7,6 @@ pasos apra instalar
 5. verificamos las versiones de ruby y rails para ver si estan correctamente instaladas con "ruby -v" y "rails -v"
 6. entramos a la carpeta donde clonamos el repositorio "cd/"carpeta""
 7. para luego crear la app con "rails new pagicci" en la terminal
-8. 
+8. para iniciar un servidor "rails server"
+9. "yarn add boostrap" en la terminal.
+
